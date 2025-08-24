@@ -1,2 +1,5 @@
 # izzanshahpro
 my first github repository
+author-syed Izzan Shah
+This is my first github repository and after few years i come back here and smile of what i have written and what i have done 
+these are my first days of coding 
